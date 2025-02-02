@@ -1,0 +1,3 @@
+ffb902c39ff64f2b88a90148240905
+
+http://api.weatherapi.com/v1/forecast.json?key=ffb902c39ff64f2b88a90148240905&q=Nepal&days=10&aqi=yes&alerts=yes
